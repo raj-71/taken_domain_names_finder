@@ -1,0 +1,12 @@
+venv/
+.git/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+results/
+build/
+dist/
+
+
